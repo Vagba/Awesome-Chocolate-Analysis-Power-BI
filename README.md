@@ -21,3 +21,7 @@ Our report features intuitive visualizations, including bar charts, line graphs,
 
 
 ![Awesome-Chocolates-Schema](https://github.com/Vagba/Awsome-Chocolate-Analysis-Power-BI/assets/119165421/d21e80fc-4259-4c44-8183-4893938b6dcb)
+
+![Screenshot_8](https://github.com/Vagba/Awesome-Chocolate-Analysis-Power-BI/assets/119165421/a3bb0c84-ffd9-4be6-980c-03ad27a09a54)
+
+
